@@ -1,1 +1,1 @@
-# Calculator-Using-JAvascript
+# Calculator-Using-Javascript
